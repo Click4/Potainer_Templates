@@ -1,7 +1,6 @@
-[
-  {
+{
 "version": "2",
-"templates":
+"templates": [
   {
     "type": 1,
     "title": "Airsonic",
@@ -3884,6 +3883,8 @@
         "name": "PGID",
         "label": "PGID",
         "default": "100"
-      }
-    ]
-  }
+       }
+     ]
+   }
+  ]
+} 
