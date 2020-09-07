@@ -546,7 +546,7 @@
     "type": 1,
     "title": "Kodi Headless",
     "name": "kodi-headless",
-    "description": "Headless installation of Kodi™ (formerly known as XBMC™), to enable library updates.",
+    "description": "Headless installation of KodiÂ™ (formerly known as XBMCÂ™), to enable library updates.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/kodi-icon.png",
     "image": "linuxserver/kodi-headless:latest",
     "categories": [
@@ -2273,7 +2273,7 @@
     "type": 1,
     "title": "FreshRSS",
     "name": "freshrss",
-    "description": "A free, self-hostable rss aggregator…",
+    "description": "A free, self-hostable rss aggregatorÂ…",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/freshrss-icon.png",
     "image": "linuxserver/freshrss:latest",
     "categories": [
@@ -2793,7 +2793,7 @@
     "type": 1,
     "title": "qBittorrent",
     "name": "qbittorrent",
-    "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.",
+    "description": "The qBittorrent project aims to provide an open-source software alternative to ÂµTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/qbittorrent-icon.png",
     "image": "linuxserver/qbittorrent:latest",
     "categories": [
@@ -2867,7 +2867,7 @@
     "type": 1,
     "title": "Radarr",
     "name": "radarr",
-    "description": "Radarr - A fork of Sonarr to work with movies à la Couchpotato.",
+    "description": "Radarr - A fork of Sonarr to work with movies Ã  la Couchpotato.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/radarr.png",
     "image": "linuxserver/radarr:latest",
     "categories": [
@@ -3389,7 +3389,7 @@
     "type": 1,
     "title": "Transmission",
     "name": "transmission",
-    "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client: encryption, a web interface, peer exchange, magnet links, DHT, µTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more.",
+    "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client: encryption, a web interface, peer exchange, magnet links, DHT, ÂµTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/transmission-icon.png",
     "image": "linuxserver/transmission:latest",
     "categories": [
@@ -3800,7 +3800,7 @@
     "type": 1,
     "title": "UniFi Video",
     "name": "UniFi Video",
-    "description": "UniFi Video is a powerful and flexible, integrated IP video management surveillance system designed to work with Ubiquiti’s UniFi Video Camera product line. UniFi Video has an intuitive, configurable, and feature-packed user interface with advanced features such as motion detection, auto-discovery, user-level security, storage management, reporting, and mobile device support.",
+    "description": "UniFi Video is a powerful and flexible, integrated IP video management surveillance system designed to work with UbiquitiÂ’s UniFi Video Camera product line. UniFi Video has an intuitive, configurable, and feature-packed user interface with advanced features such as motion detection, auto-discovery, user-level security, storage management, reporting, and mobile device support.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/UniFiVideo-logo.png",
     "image": "pducharme/unifi-video-controller:latest",
     "categories": [
